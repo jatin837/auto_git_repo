@@ -1,0 +1,3 @@
+Write a bash script to automate the remote repository creation
+
+run this bash script in a git project, provided that project has no remote repository, it will try to create one using github api
