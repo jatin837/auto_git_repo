@@ -9,7 +9,6 @@ DIR_LOC=$(pwd)
 cd $THIS_PROJ_DIR
 
 PROJ_NAME=${THIS_PROJ_DIR:${#DIR_LOC}+1}
-GH_USER_NAME=jatin837
 
 
 curl -i -H "Authorization: token $GH_KEY" \
